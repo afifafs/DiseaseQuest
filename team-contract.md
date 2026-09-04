@@ -57,3 +57,4 @@ Each member adds their own line, in their own commit.
 
 - <Angel Rivas>, <9/4/2026>
 - Afifa Satter 9/4/2026
+- Harsh Datre, 9/4/2026
