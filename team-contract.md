@@ -1,14 +1,14 @@
 # Team Contract: <team name>
 
 **Disease Quest V2:** <client project name>
-**Angel, Tessa:** <every member's name>
-**Repository:** <url>, owned by <name>
-**Signed:** <date>
+**Angel, Tessa:** Afifa Satter
+**Repository:** https://github.com/afifafs/DiseaseQuest/edit/main/, owned by Afifa Satter
+**Signed:** Afifa Satter
 
 ## 1. Meeting time
 
-We meet every **<day>** at **<time>** in **<place or link>**, for <duration>.
-A member who cannot attend tells the team **<how far ahead>** and reads the minutes.
+We meet every Wednesday at 8AM in Library, for 2 Hours.
+A member who cannot attend tells the team 1 hour before and reads the minutes.
 
 ## 2. Communication
 
