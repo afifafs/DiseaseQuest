@@ -52,7 +52,7 @@ If it happens again: **<what the team does>**.
 Still unresolved: we escalate to our TA, then to the instructor. We escalate early.
 
 ## Signatures
-
+Tessa Payne
 Each member adds their own line, in their own commit.
 
 - <Angel Rivas>, <9/4/2026>
