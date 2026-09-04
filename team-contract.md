@@ -3,7 +3,7 @@
 **Disease Quest V2:** <client project name>
 **Angel, Tessa:** Afifa Satter
 **Repository:** https://github.com/afifafs/DiseaseQuest/edit/main/, owned by Afifa Satter
-**Signed:** Afifa Satter, Tessa Payne
+**Signed:** Afifa Satter, Tessa Payne, Jada Ihekwoaba
 
 ## 1. Meeting time
 
