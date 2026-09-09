@@ -1,9 +1,8 @@
 # Team Contract: <team name>
 
 **Disease Quest V2:** <client project name>
-**Angel, Tessa:** Afifa Satter
 **Repository:** https://github.com/afifafs/DiseaseQuest/edit/main/, owned by Afifa Satter
-**Signed:** Afifa Satter, Tessa Payne, Jada Ihekwoaba
+**Signed:** Afifa Satter, Tessa Payne, Jada Ihekwoaba, Angel Rivas
 
 ## 1. Meeting time
 
@@ -54,7 +53,7 @@ Still unresolved: we escalate to our TA, then to the instructor. We escalate ear
 ## Signatures
 Each member adds their own line, in their own commit.
 
-- <Angel Rivas>, <9/4/2026>
+- Angel Rivas, 9/4/2026
 - Afifa Satter 9/4/2026
 - Harsh Datre, 9/4/2026
 - Tessa Payne, 9/4/2026
