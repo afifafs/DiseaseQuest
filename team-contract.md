@@ -57,3 +57,4 @@ Each member adds their own line, in their own commit.
 - Afifa Satter 9/4/2026
 - Harsh Datre, 9/4/2026
 - Tessa Payne, 9/4/2026
+- Jada Ihekwoaba, 9/9/2026
