@@ -1,8 +1,8 @@
 # Business Rules
 
-**Project:** _[Your project name]_
-**Team:** _[Team NN]_
-**Client:** _[Client name and organization]_
+**Project:** DiseaseQuestv2
+**Team:** Group 9
+**Client:** TCU Burnett School of Medicine
 **Version:** 0.1
 
 ---
@@ -82,7 +82,7 @@ _The Source column is the defense. Every rule traces to a document or a person, 
 
 | Date | Version | Description | Author |
 |---|---|---|---|
-| _[YYYY-MM-DD]_ | 0.1 | Initial rules from the client brief and first client meeting | _[Name]_ |
+| 2026-09-11 | 0.1 | Initial rules from the client brief and first client meeting | Tessa Payne |
 
 ---
 
@@ -92,9 +92,13 @@ _The Source column is the defense. Every rule traces to a document or a person, 
 
 _[One paragraph: this document collects the policies, regulations, standards, and formulas that govern the business your software operates in, so the specification can cite them rather than restate them.]_
 
+This document collects the policies, regulations, standards, and formulas that govern DiseaseQuest so that the project's software requirements can reference these rules without restating them. It will be updated as additional business rules are identified and confirmed with the client.
+
 ### 1.2 Scope
 
 _[Which parts of the client's business these rules cover, and which are out of scope. If your client's organization has rules that your system does not touch, say so here rather than silently omitting them.]_
+
+This document covers business rules relevant to the DiseaseQuest functionality discussed with the client. The team has not yet identified or confirmed policies, regulations, standards, or formulas that qualify as business rules. Additional rules will be documented as they are confirmed with the client. Areas that have not yet been discussed or confirmed are outside the current scope of this document.
 
 ---
 
@@ -114,5 +118,11 @@ _Format each rule as a bold identifier, the rule in one sentence, then its sourc
   **Source:** team decision, 2026-09-10. **Candidate for the specification instead of this file**, since the team, not the client, would approve a change.
 
 _[That third entry is deliberate. Flag rules you are not sure about rather than dropping them; deciding whether something is a rule or a requirement is a conversation to have with your client, and it is worth having.]_
+
+### 2.2 AI Agent Access and Responsibilities
+
+No confirmed business rules have been identified for this topic yet. During the first client meeting, Dr. Nath stated that the Coach Agent should pull from notes while the other AI agents should not. The team needs to confirm whether this represents an existing business rule or a software requirement before recording it as a business rule.
+
+The client also stated that the AI agents are currently not following the correct sequence. The required sequence has not yet been established in the team's documentation and should be clarified with the client rather than inferred.
 
 _**Checklist:** Does every rule have a source? Could your client change it without asking you? Is it stated as one sentence about the business, rather than as a sentence about your software? Does any use case cite it, and if none does, is that correct?_
