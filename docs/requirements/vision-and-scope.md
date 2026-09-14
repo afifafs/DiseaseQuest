@@ -143,12 +143,12 @@ _[One statement summarizing, at the highest level, the position this product int
 
 | | |
 |---|---|
-| **For** | _[target customer]_ |
-| **Who** | _[the need or opportunity]_ |
-| **The** _[product name]_ | _[is a ...]_ |
-| **That** | _[major capabilities, key benefit, compelling reason to use it]_ |
-| **Unlike** | _[the current process, or the competing alternative]_ |
-| **Our product** | _[primary differentiation and advantage]_ |
+| **For** | faculty and medical students who use DiseaseQuest for clinical education |
+| **Who** | need clinical simulations that support case creation, student encounters, and review of student performance |
+| **The** _DiseaseQuest V2_ | is a web-based clinical education application |
+| **That** | enables faculty to author richer case materials and enables students to complete encounters with deterministic clinical progression, controlled information disclosure, an enforced reasoning sequence, and traceable scoring across eight rubric domains |
+| **Unlike** | DiseaseQuest V1, which can use AI to propose clinical changes and grade student activity |
+| **Our product** | separates conversational AI from clinical state and authoritative scoring while preserving reusable case, session, review, and export capabilities from V1 |
 
 _Worked example:_
 
